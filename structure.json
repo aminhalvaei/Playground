@@ -1,0 +1,36 @@
+{
+    "title":"",
+    "locaton":{
+        "province":"",
+        "city":"",
+        "coordinates":{
+            "latitude": 30.3473,
+            "longtitude": 48.2934
+        }
+    },
+    "ingredients":[
+        {
+            "name":"",
+            "amount":100,
+            "unit":""
+        },
+        {
+            "name":"",
+            "amount":200,
+            "unit":""
+        }
+    ],
+    "instructions": [
+        "",
+        "",
+        ""
+    ],
+    "meal_type": [
+        "sea_food",
+        "main_dish"
+    ],
+    "occasion": [
+        "lunch",
+        "dinner"
+    ]
+}
