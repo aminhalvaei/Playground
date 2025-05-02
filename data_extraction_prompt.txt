@@ -1,4 +1,8 @@
-You are a data extraction assistant. The following HTML content is from a Persian-language food website. Your task is to extract structured information about a Persian food item and return it in valid JSON format using the schema below.
+You are a data extraction assistant. The following HTML content is from a Persian-language food website.
+Your task is to extract structured information about one specific Persian food item, whose name is provided below.
+Return the extracted data in valid JSON format using the schema shown.
+
+Target food name: {{FOOD_NAME}}
 
 Schema:
 {
@@ -29,11 +33,27 @@ Schema:
     ]
 }
 
-Important Notes:
-- Do not guess or hallucinate. If some information is not present, leave the field as an empty string or empty array as appropriate.
-- For coordinates, leave as `0.0` if not provided.
-- For units, use standard ones like "grams", "tablespoons", etc.
-- For `meal_type` and `occasion`, use tags like ["main_dish", "dessert", "appetizer"], and ["breakfast", "lunch", "dinner", "nowruz", etc.].
+
+Extraction Rules:
+
+- Only extract data relevant to the food named exactly as {{FOOD_NAME}}.
+
+- If multiple food items exist in the HTML, ignore all others.
+
+- Do not hallucinate or guess. If a field is missing, leave it as:
+
+- an empty string ("") for text fields
+
+- an empty array ([]) for lists
+
+- 0.0 for latitude and longitude if coordinates are not given.
+
+- Use standard units like "grams", "tablespoons", etc.
+
+- Valid values for "meal_type" include: ["غذای اصلی", "پیش غذا", "دسر", "نان", "نوشیدنی"].
+
+- Valid values for "occasion" include: ["صبحانه", "ناهار", "شام", "افطاری","سحری"].
+
 
 Now, extract the data from this HTML:
 
