@@ -1,7 +1,32 @@
 [
     {
-        "name": "Amin",
+        "name": "Isfahan",
         "sheet_id": "1LB30YRUpfcENQEu-DZzNC5v781Zr0tGxJ14-PbiVyUw",
-        "sheet_name": "NLP-HW1-FoodTable"
+        "gid": "254617511"
+    },
+    {
+        "name": "Fars",
+        "sheet_id": "1LB30YRUpfcENQEu-DZzNC5v781Zr0tGxJ14-PbiVyUw",
+        "gid": "2045705026"
+    },
+    {
+        "name": "Bushehr",
+        "sheet_id": "1LB30YRUpfcENQEu-DZzNC5v781Zr0tGxJ14-PbiVyUw",
+        "gid": "1080343510"
+    },
+    {
+        "name": "CMB",
+        "sheet_id": "1LB30YRUpfcENQEu-DZzNC5v781Zr0tGxJ14-PbiVyUw",
+        "gid": "1520488465"
+    },
+    {
+        "name": "Hormozgan",
+        "sheet_id": "1LB30YRUpfcENQEu-DZzNC5v781Zr0tGxJ14-PbiVyUw",
+        "gid": "156574762"
+    },
+    {
+        "name": "KBA",
+        "sheet_id": "1LB30YRUpfcENQEu-DZzNC5v781Zr0tGxJ14-PbiVyUw",
+        "gid": "670585148"
     }
 ]
