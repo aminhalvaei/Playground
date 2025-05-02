@@ -1,0 +1,269 @@
+1, بریانی, Isfahan, اصفهان | done ✅
+30, حلیم بادمجان, Isfahan, اصفهان | done ✅
+31, دوغ و گوشفیل, Isfahan, اصفهان | done ✅
+32, حلیم شیر, Isfahan, اصفهان | skipped (no HTML) ⏭️
+33, کباب حسینی, Isfahan, اصفهان | done ✅
+34, یخنی لوبیا, Isfahan, اصفهان | done ✅
+35, کوفته شوید باقلا, Isfahan, اصفهان | skipped (no HTML) ⏭️
+36, کباب زردک, Isfahan, اصفهان | done ✅
+37, آش سماق, Isfahan, اصفهان | done ✅
+38, کوکو قندی, Isfahan, اصفهان | done ✅
+39, جغوربغور, Isfahan, اصفهان | done ✅
+40, به پلو, Isfahan, اصفهان | done ✅
+41, کاچی هفت دخترون یا بی بی حور, Isfahan, اصفهان | done ✅
+42, کوفته برنجی یا آمروی یا آمربی, Isfahan, خمینی شهر | done ✅
+43, گیپا یا دلمه سیرابی, Isfahan, اصفهان | done ✅
+44, خورشت مرغ و آلوچه, Isfahan, اصفهان | done ✅
+45, گداخته, Isfahan, اصفهان | done ✅
+46, چوقورتی, Isfahan, اصفهان | done ✅
+47, نخود آب, Isfahan, اصفهان | done ✅
+48, آش شله قلمکار, Isfahan, اصفهان | done ✅
+49, حلیم عدس, Isfahan, اصفهان | done ✅
+50, دمپخت کنجد و خشخاش, Isfahan, اصفهان | done ✅
+51, خورش نعنا جعفری, Isfahan, اصفهان | done ✅
+52, اشکنه, Isfahan, اصفهان | done ✅
+53, شله ماش, Isfahan, اصفهان | parseFailed ❌
+54, دیزی پلو, Isfahan, کاشان | done ✅
+55, خورش نخود آله, Isfahan, کاشان | done ✅
+56, قرمزه نخودچی, Isfahan, اصفهان | done ✅
+57, فرنی, Isfahan, اصفهان | done ✅
+58, آش اوماج چغندر, Isfahan, اصفهان | done ✅
+59, آبگوشت یخنی نخود, Fars, شیراز | done ✅
+77, شکر پلو شیرازی, Fars, شیراز | done ✅
+78, لوبیا پلو شیرازی, Fars, شیراز | done ✅
+79, دمپختک شیرازی, Fars, شیراز | done ✅
+80, شیرازی پلو یا کته شیرازی, Fars, شیراز | done ✅
+81, پاچه پلو شیرازی, Fars, شیراز | done ✅
+82, لالک بادمجان, Fars, کازرون | done ✅
+83, گبوله, Fars, کازرون | done ✅
+84, پی پخ جهرمی, Fars, جهرم | done ✅
+85, قیمه جهرمی, Fars, جهرم | skipped (no HTML) ⏭️
+86, کوفته ریزه جهرمی, Fars, جهرم | done ✅
+87, پلوترش دارابی, Fars, داراب | done ✅
+88, رب پلو شیرازی, Fars, شیراز | done ✅
+89, شله ماش شیرازی, Fars, شیراز | done ✅
+90, پلو اسفندی, Fars, آباده | done ✅
+91, کوفته هلو, Fars, شیراز | done ✅
+92, کوفته سبزی شیرازی, Fars, شیراز | done ✅
+93, آلبالو پلو شیرازی, Fars, شیراز | done ✅
+94, دو پیازه آلو شیرازی, Fars, شیراز | done ✅
+95, خورشت سبزی شیرازی, Fars, شیراز | done ✅
+96, قورمه به, Fars, شیراز | done ✅
+97, اشکنه شیرازی یا آب پیازک, Fars, شیراز | skipped (no HTML) ⏭️
+98, توتوه, Fars, شیراز | done ✅
+99, تو تابه ای, Fars, شیراز | done ✅
+100, خورشت کنگر, Fars, شیراز | done ✅
+101, چوگان شیرازی, Fars, شیراز | done ✅
+102, کوفته گشنیز شیرازی, Fars, شیراز | done ✅
+103, حلیم بادمجان, Fars, شیراز | done ✅
+104, فالوده شیرازی, Fars, شیراز | done ✅
+105, خوراک بابونه(قاتق بابونه), Fars, شیراز | done ✅
+106, ترحلوا , Fars, شیراز | done ✅
+107, حلوا کاسه شیرازی, Fars, شیراز | skipped (no HTML) ⏭️
+108, حلوای شیر شیرازی, Fars, شیراز | done ✅
+109, یتیمک بادمجان شیرازی, Fars, شیراز | done ✅
+110, مشته بادمجان شیرازی, Fars, شیراز | done ✅
+111, دلمه برگ مو شیرازی, Fars, شیراز | done ✅
+112, مرغ مسمای شیرازی, Fars, شیراز | done ✅
+113, لا پلو شیرازی, Fars, شیراز | done ✅
+114, مرصع پلو شیرازی, Fars, شیراز | apiFailed ❌
+115, نان قندی شیرازی, Fars, شیراز | done ✅
+116, ماست و خیار شیرازی, Fars, شیراز | done ✅
+117, کاچی بابونه, Fars, شیراز | done ✅
+118, مسقطی شیرازی, Fars, شیراز | done ✅
+119, حلوا زرد شیرازی, Fars, شیراز | done ✅
+130, شکر پلو بوشهری, Boushehr, بوشهر | done ✅
+131, کبه بوشهر, Boushehr, بوشهر | done ✅
+132, قلیه میگو بوشهر, Boushehr, بوشهر | done ✅
+133, قلیه ماهی بوشهر, Boushehr, بوشهر | done ✅
+134, یتیمچه (یتیمک), Boushehr, بوشهر | done ✅
+135, گمنه یا للک بوشهر, Boushehr, بوشهر | done ✅
+136, سوپ میگو بوشهر, Boushehr, بوشهر | done ✅
+137, ته انداز ماهی, Boushehr, بوشهر | done ✅
+138, ماهی شکم پر, Boushehr, بوشهر | parseFailed ❌
+139, دوقوس ماهی, Boushehr, بوشهر | done ✅
+140, مجبوس مرغ, Boushehr, بوشهر | done ✅
+141, دوپیازه میگو, Boushehr, بوشهر | done ✅
+142, هریسه, Boushehr, بوشهر | done ✅
+143, پاکورا, Boushehr, بوشهر | apiFailed ❌
+144, لگیمات, Boushehr, بوشهر | done ✅
+145, حلوا انگشت پیچ بوشهری, Boushehr, بوشهر | done ✅
+146, نان گرده بوشهری, Boushehr, بوشهر | done ✅
+147, کشکنه بوشهری, Boushehr, بوشهر | done ✅
+148, اشکنه گشنیز و شنبلیله, Boushehr, بوشهر | done ✅
+149, دمی دخلاخ, Boushehr, بوشهر | done ✅
+150, قلیه تخم مرغ, Boushehr, بوشهر | done ✅
+151, کته ماهی شیر, Boushehr, بوشهر | done ✅
+152, مویَدب, Boushehr, بوشهر | done ✅
+153, ماهی مید, Boushehr, بوشهر | done ✅
+154, مُی شور  یا ماهی شور بوشهر, Boushehr, بوشهر | done ✅
+155, نشا, Boushehr, بوشهر | done ✅
+156, کتلت ماهی مرکب خساک, Boushehr, بوشهر | done ✅
+157, حلوای سردوبندو بوشهر, Boushehr, بوشهر | done ✅
+158, نان بلبل (پیازی), Boushehr, بوشهر | done ✅
+159, نان کماج بوشهری, Boushehr, بوشهر | done ✅
+160, تاس کباب, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+161, کباب بختیاری, Chaharmahal and Bakhtiari, شهرکرد | skipped (no HTML) ⏭️
+162, گوشت ترش بختیاری, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+163, آبگوشت ترشی, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+164, آبریز, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+165, نان تیری, Chaharmahal and Bakhtiari, شهرکرد | skipped (no HTML) ⏭️
+166, نان کاکولی, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+167, نان ورچاله, Chaharmahal and Bakhtiari, شهرکرد | skipped (no HTML) ⏭️
+168, نان توچری, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+169, نان بَرکو, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+170, نان بلوط(کلگ بلوط), Chaharmahal and Bakhtiari, شهرکرد | done ✅
+171, نان گِردِه, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+172, گِمنِه یا درشته, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+173, آشِ بَلگ, Chaharmahal and Bakhtiari, شهرکرد | skipped (no HTML) ⏭️
+174, کلگ لری, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+175, آش کاردین يا کارده, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+176, قَل‌قَلِه سِو یا قَل‌قَل سیو, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+177, ماهی قزل آلا شهرکرد, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+178, کته زعفرانی با ماهی, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+179, ماهی شکم پر, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+180, کاچی شیر, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+181, دوغ خانگی, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+182, آش دوغ بختیاری, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+183, آش شنگ و موچه, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+184, آش انار, Chaharmahal and Bakhtiari, شهرکرد | skipped (no HTML) ⏭️
+185, آش آماج بختیاری, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+186, آش کشک و جعفري, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+187, آو تفتاله, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+188, پرورد دوغ, Chaharmahal and Bakhtiari, کوهرنگ | done ✅
+189, کال جوش یا کله جوش, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+190, آش اوگندی, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+192, گردو پلو, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+193, کشک و کدو چهار محال بختیاری, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+194, شوربای قیمه ریزه, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+195, گوشت گندم, Chaharmahal and Bakhtiari, شهرکرد | skipped (no HTML) ⏭️
+196, شله بریان, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+197, نان اگردک, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+198, نان محلي شهرکرد, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+199, ماست میش, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+200, چلو خورش به, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+201, نان نوچیزی (بورخر), Chaharmahal and Bakhtiari, شهرکرد | done ✅
+202, نان چپه, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+203, نان يوخا یا یوخه, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+204, خوراک قارچ, Chaharmahal and Bakhtiari, شهرکرد | skipped (no HTML) ⏭️
+205, کوفته ریزه, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+206, اشکنه قارچ, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+207, ﺍﻭ ﮔﻨﺪﯼ ( ﻋﺪﺳﯽ ), Chaharmahal and Bakhtiari, شهرکرد | done ✅
+208, پِه جییَر, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+209, پلو ماش, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+210, آب ترشی(اوترشی), Chaharmahal and Bakhtiari, شهرکرد | done ✅
+211, خورش آلو, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+212, آش برنج, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+213, آش آردوله بوسور, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+214, هره, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+215, خورش کنگر, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+216, خورش قورمه گوشت, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+217, آش دندونی, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+218, آب‌نبات سنتی بختیاری(قارا بِشکَن), Chaharmahal and Bakhtiari, شهرکرد | done ✅
+219, کباب مرغ با سس مخصوص بختیاری, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+220, آش جو (آش جو), Chaharmahal and Bakhtiari, شهرکرد | done ✅
+221, آش عدس, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+222, آش ماش, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+223, آش رشته, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+224, آش شله زرد, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+225, شیر برنج محلی(شله شیری), Chaharmahal and Bakhtiari, شهرکرد | done ✅
+226, آش قلیه, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+227, آش ماست, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+228, آش گندم, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+229, آش کدو, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+230, آش بنه, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+231, آش ریواس, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+232, آش ترشک, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+233, آش قره قروت, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+234, آش کاچی, Chaharmahal and Bakhtiari, شهرکرد | parseFailed ❌
+235, دُورتی, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+236, کاچی علفی, Chaharmahal and Bakhtiari, شهرکرد | done ✅
+237, آش ماستینه, Chaharmahal and Bakhtiari, nan | done ✅
+238, آش آلو, Chaharmahal and Bakhtiari, nan | done ✅
+239, مسقطی, Hormozgan, بندرعباس | done ✅
+240, ماهی شکم پر محلی (مینابی), Hormozgan, بندرعباس | done ✅
+241, هزاری, Hormozgan, بندرعباس | done ✅
+242, ماهی حلوا سیاه زبیده, Hormozgan, بندرعباس | done ✅
+243, سورپیاز, Hormozgan, بندرعباس | done ✅
+244, چَکوی میگو با سوراغ, Hormozgan, بندرعباس | done ✅
+245, لگیمات یا لقیمات, Hormozgan, بندرعباس | done ✅
+246, برنج دیشو, Hormozgan, بندرعباس | done ✅
+247, بره پلو عربی, Hormozgan, بندرعباس | done ✅
+248, بلالیت, Hormozgan, بندرعباس | done ✅
+249, کُلُمبا, Hormozgan, بندرعباس | done ✅
+250, پودینی کوسه, Hormozgan, بندرعباس | done ✅
+251, زیبون, Hormozgan, بندرعباس | done ✅
+252, عنکاس, Hormozgan, بندرعباس | done ✅
+253, ماهی میدم یا دمی لخلاخ یا دمپخت ماهی بوشهری, Hormozgan, بندرعباس | done ✅
+254, ماهی شیر سرخ, Hormozgan, بندرعباس | done ✅
+255, متبک پلو, Hormozgan, بندرعباس | done ✅
+256, موفلک, Hormozgan, بندرعباس | done ✅
+257, مهیاوه ، مهیابه، ماهیاوه، مهیوه، مهوه، موه, Hormozgan, بندرعباس | done ✅
+258, هواری, Hormozgan, بندرعباس | done ✅
+259, گبولی گوشت, Hormozgan, بندرعباس | done ✅
+260, کوفته ماهی مومغ, Hormozgan, بندرعباس | done ✅
+261, کاتوغ،  قاتق، کاتغ با ماهی, Hormozgan, بندرعباس | done ✅
+262, کاتوغ،  قاتق، کاتغ با تخم مرغ, Hormozgan, بندرعباس | done ✅
+263, دوپیازه میگو, Hormozgan, بندرعباس | done ✅
+264, نان توموشی, Hormozgan, بندرعباس | done ✅
+265, سوراغ, Hormozgan, بندرعباس | done ✅
+266, ترشی انبه, Hormozgan, بندرعباس | done ✅
+267, مالوکی, Hormozgan, بندرعباس | done ✅
+268, حلیم جریس, Hormozgan, بندرعباس | done ✅
+269, کلوچه محلی میناب, Hormozgan, میناب | done ✅
+270, کلوچه محلی بندرعباس, Hormozgan, بندرعباس | done ✅
+271, کلوچه خرمایی, Hormozgan, بندرعباس | done ✅
+272, نان چمچمو, Hormozgan, بندرعباس | done ✅
+273, نان تومشی، تیمشی، رته، (تومشتی، ریخته), Hormozgan, بندرعباس | done ✅
+274, کلوکی, Hormozgan, بندرعباس | done ✅
+275, نان دستی, Hormozgan, بندرعباس | done ✅
+276, نان خمیری, Hormozgan, بندرعباس | done ✅
+277, نان پکاره, Hormozgan, بندرعباس | done ✅
+278, نان بالاتابه, Hormozgan, بندرعباس | done ✅
+279, نان گرده, Hormozgan, بندرعباس | done ✅
+280, نان خمیر تره, Hormozgan, بندرعباس | done ✅
+281, نان حفصه, Hormozgan, بندرعباس | done ✅
+282, نان خمیر عربی, Hormozgan, بندرعباس | done ✅
+283, قلیه ماهی, Hormozgan, بندرعباس | done ✅
+284, قلیه میگو, Hormozgan, بندرعباس | skipped (no HTML) ⏭️
+285, کباب  كهره, Hormozgan, بندرعباس | done ✅
+286, ماهی کولی, Hormozgan, بندرعباس | done ✅
+287, نان کروسی, Hormozgan, بندرعباس | done ✅
+288, رنگینک, Hormozgan, بندرعباس | done ✅
+289, کلوچه تنوری, Hormozgan, بندرعباس | done ✅
+290, ماهی زغالی قشم, Hormozgan, بندرعباس | done ✅
+291, خوراک سینگو (خرچنگ), Hormozgan, بندرعباس | done ✅
+292, خوراک ملوک (صدف دراز), Hormozgan, بندرعباس | done ✅
+293, پلشک صدف حلزونى, Hormozgan, بندرعباس | done ✅
+294, خوراك ماهی متوتا یا حسینه قشم, Hormozgan, بندرعباس | done ✅
+295, هواری میگو چکو, Hormozgan, بندرعباس | done ✅
+296, شور ماهی پلو (هواری ماهی سوری), Hormozgan, بندرعباس | skipped (no HTML) ⏭️
+297, ماهی شور, Hormozgan, بندرعباس | done ✅
+307, شله شیری (شیر برنج), kohgiluyeh and boyer-ahmad , یاسوج | parseFailed ❌
+308, شله دووی یا لبنی, kohgiluyeh and boyer-ahmad , یاسوج | done ✅
+309, نان بلوط (کلگ), kohgiluyeh and boyer-ahmad , یاسوج | done ✅
+310, آش دنگو, kohgiluyeh and boyer-ahmad , یاسوج | done ✅
+311, کنگرپلو یا بیلهرپلو, kohgiluyeh and boyer-ahmad , یاسوج | done ✅
+312, آش کنگری, kohgiluyeh and boyer-ahmad , یاسوج | done ✅
+313, شلشلی, kohgiluyeh and boyer-ahmad , یاسوج | done ✅
+314, گرده زیرچاله, kohgiluyeh and boyer-ahmad , یاسوج | done ✅
+315, کشک پیاز, kohgiluyeh and boyer-ahmad , یاسوج | apiFailed ❌
+316, تلیت پیاز, kohgiluyeh and boyer-ahmad , یاسوج | done ✅
+317, نان برکو, kohgiluyeh and boyer-ahmad , یاسوج | done ✅
+318, کلک سوز, kohgiluyeh and boyer-ahmad , یاسوج | done ✅
+319, دمپخت گوشتی, kohgiluyeh and boyer-ahmad , یاسوج | done ✅
+320, گرده ذرتی, kohgiluyeh and boyer-ahmad , یاسوج | done ✅
+321, شله بادامی, kohgiluyeh and boyer-ahmad , یاسوج | done ✅
+322, نان بلبلی یا مشتک روغنی, kohgiluyeh and boyer-ahmad , یاسوج | done ✅
+323, گونه, kohgiluyeh and boyer-ahmad , یاسوج | done ✅
+324, لوی, kohgiluyeh and boyer-ahmad , یاسوج | skipped (no HTML) ⏭️
+326, نان تیری, kohgiluyeh and boyer-ahmad , یاسوج | done ✅
+327, دوا زردکی و پیازداغ, kohgiluyeh and boyer-ahmad , یاسوج | skipped (no HTML) ⏭️
+329, شله ماسی یا شله دووی (شله ماستی یا شله دوغی), kohgiluyeh and boyer-ahmad , یاسوج | done ✅
+330, شله شیری, kohgiluyeh and boyer-ahmad , یاسوج | done ✅
+331, کله جوشک یا کلک سوز, kohgiluyeh and boyer-ahmad , یاسوج | done ✅
+332, دوا زردکی و پیاز داغی, kohgiluyeh and boyer-ahmad , یاسوج | done ✅
+333, اش دنگو, kohgiluyeh and boyer-ahmad , یاسوج | skipped (no HTML) ⏭️
+334, آش کشک یاسوجی, kohgiluyeh and boyer-ahmad , یاسوج | done ✅
+335, قورمه گوشت, kohgiluyeh and boyer-ahmad , یاسوج | done ✅
+336, چنگال, kohgiluyeh and boyer-ahmad , یاسوج | done ✅
