@@ -10,7 +10,7 @@ Schema:
     "ingredients": [
         {
             "name": "",
-            "amount": 0,
+            "amount": "",
             "unit": ""
         }
     ],
@@ -31,6 +31,9 @@ Extraction Rules:
 - Only extract data relevant to the food named exactly as {{FOOD_NAME}}.
 
 - If multiple food items exist in the HTML, ignore all others.
+
+- If any of ingredients has value of "به مقدار لازم" or "به میزان کافی" or something like these that means sufficient amount
+    then use it (به مقدار لازم) as amount and unit should by empty
 
 - Do not hallucinate or guess. If a field is missing, leave it as:
 
