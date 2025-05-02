@@ -6,15 +6,7 @@ Target food name: {{FOOD_NAME}}
 
 Schema:
 {
-    "title": "",
-    "location": {
-        "province": "",
-        "city": "",
-        "coordinates": {
-            "latitude": 0.0,
-            "longtitude": 0.0
-        }
-    },
+    "title": "{{FOOD_NAME}}",
     "ingredients": [
         {
             "name": "",
@@ -45,8 +37,6 @@ Extraction Rules:
 - an empty string ("") for text fields
 
 - an empty array ([]) for lists
-
-- 0.0 for latitude and longitude if coordinates are not given.
 
 - Use standard units like "grams", "tablespoons", etc.
 
